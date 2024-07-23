@@ -1,0 +1,37 @@
+{
+  "name": "arviis-sayac",
+  "version": "9.9.9",
+  "description": "arviis. - Üye Sayaç Botu",
+  "main": "arvis.js",
+  "scripts": {
+    "start": "node arvis.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArviiSoft/V14-Sayac-Bot.git"
+  },
+
+  "author": "arviis.",
+  "license": "MIT",
+
+  "bugs": {
+    "url": "https://github.com/ArviiSoft/V14-Sayac-Bot/issues"
+  },
+
+  "homepage": "https://github.com/ArviiSoft/V14-Sayac-Bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "croxydb": "^0.0.7",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.3.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.2",
+    "request": "^2.88.2"
+  },
+
+  "engines": {
+    "node": "16.x"
+  }
+}
